@@ -1,7 +1,7 @@
 # KDocRE
 <h3>KDocRE:Knowledge-Driven Cross-Document Relation Extraction</h3>
 
-##Accepted in ACL 2024, findings conference## 
+##Accepted in ACL 2024, findings## 
 
 ![alt text](https://github.com/MonikaJain19/Crossdoc/blob/main/modeldiagramcrossdoc1.drawio.png)
 
