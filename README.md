@@ -90,3 +90,15 @@ Navigate to the `KDocRE` directory using the following command:
 #  Explanation   
 - explaination is generated in explanation.txt
 - explaination with relevance is stored in relevance.txt
+
+# Citation
+Please cite:
+
+@misc{jain2024knowledgedriven,
+      title={Knowledge-Driven Cross-Document Relation Extraction}, 
+      author={Monika Jain and Raghava Mutharaju and Kuldeep Singh and Ramakanth Kavuluru},
+      year={2024},
+      eprint={2405.13546},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
